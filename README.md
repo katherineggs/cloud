@@ -1,2 +1,2 @@
-# cloud
-Cloud &amp; Inhouse Infrastructure class work UFM
+# Cloud
+Cloud & Inhouse Infrastructure class work UFM
