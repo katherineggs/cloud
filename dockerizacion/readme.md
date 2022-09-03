@@ -1,4 +1,4 @@
-# Dockerizacio4n de una app python
+# Dockerización de una app python
 
 ---------
 ## En docker hub
@@ -17,4 +17,4 @@
 
 ### Observar la app
 En el navegador ir a localhost:8080 
-*o el puerto colocadoen el comando anterior
+*o el puerto colocado en el comando anterior
