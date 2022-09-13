@@ -7,7 +7,7 @@ app = Flask(__name__)
 print("Running ...")
 
 banner = """
-    ,-~~-.___.    
+    ,-~~-.___.    <br>
     / |  x     \    
     (  )        0   
     \_/-, ,----'  ____ 
@@ -24,4 +24,4 @@ def crazy():
     return render_template("hello.html", banner=banner)
 
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='0.0.0.0', port=8910)
